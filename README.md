@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajbhut&label=Profile%20views&color=0e75b6&style=flat" alt="rajbhut" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://rajb.codes]
+- 👨‍💻 All of my projects are available at [https://rajb.tech]
 
 - 💬 Ask me about *Java,react, SpringBoot*
 
