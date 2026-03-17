@@ -1,29 +1,36 @@
-<!-- HEADER -->
+<!-- Animated Header -->
+
 <h1 align="center">Hi 👋, I'm Raj Bhut</h1>
 
-<h3 align="center">
-🚀 Full Stack Developer | Java • Spring Boot • React • Node.js
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Cool+Projects;Always+Learning+New+Things" />
+</p>
 
 <p align="center">
-Building scalable apps, exploring new tech, and solving real problems.
+  <img src="https://komarev.com/ghpvc/?username=rajbhut&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech CSE Student (2023 – 2027)
-- 💻 Full Stack Developer
-- ⚡ Love building real world projects
-- 🌱 Currently learning **Advanced Algorithms & System Design**
-- 🚀 Goal: Become a **top Software Engineer**
+```yaml
+Name: Raj Bhut
+Location: India 🇮🇳
+Education: B.Tech CSE (2023-2027)
+Focus: Full Stack Development
+Languages: Java, JavaScript
+Frameworks: Spring Boot, React, Node.js
+Goal: Become a great Software Engineer
+```
+
+💡 I love building **real-world scalable applications** and exploring new technologies.
 
 ---
 
 # 🌐 Portfolio
 
-🔗 **Portfolio:**  
+🔗 **Portfolio Website**
 https://rajb.tech
 
 ---
@@ -44,33 +51,27 @@ https://rajb.tech
 
 ---
 
-# ⚙️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+
+![Java](https://skillicons.dev/icons?i=java,js,c)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind)
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,spring)
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=heroku)
+
+![Tools](https://skillicons.dev/icons?i=git,postman,heroku)
 
 ---
 
@@ -78,20 +79,30 @@ https://rajb.tech
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajbhut&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajbhut&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajbhut&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbhut&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbhut&layout=compact&theme=tokyonight"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajbhut&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajbhut&theme=onedark&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajbhut&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajbhut&theme=tokyo-night"/>
 </p>
 
 ---
@@ -104,7 +115,7 @@ https://rajb.tech
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake Animation
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -112,12 +123,14 @@ https://rajb.tech
 
 ---
 
-# 👀 Profile Views
+# ⚡ Fun Fact
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rajbhut&label=Profile%20Views&color=blue&style=flat"/>
-</p>
+```javascript
+if(1 + 1 === "11"){
+   console.log("You're thinking like a programmer 😄");
+}
+```
 
 ---
 
-⭐ **If you like my projects, consider giving them a star!**
+⭐ If you like my work, consider **starring my repositories!**
